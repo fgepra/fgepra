@@ -17,8 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12 />
   <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/android-original.svg"
-  alt="Express Android Icon"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/android/android-original.svg"
+  alt="Android Icon"
+  width="40"
+  height="40"
 />
 </div>
 
