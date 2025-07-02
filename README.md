@@ -17,9 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img
-  src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbols/android/default/48px.svg"
-  alt="Material Android Icon"
-  width="48" height="48"/>
+  src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"
+  alt="Android Robot Logo"
+  width="60" height="60"/>
 </div>
 
 <div align="center">
